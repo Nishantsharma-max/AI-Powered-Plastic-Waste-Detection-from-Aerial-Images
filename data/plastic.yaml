@@ -1,0 +1,5 @@
+train: ../plastic_dataset/train/images
+val: ../plastic_dataset/valid/images
+
+nc: 8  # or more if there are multiple plastic classes
+names: ['Non stretch bag', 'OTHERS', 'PET bottle', 'PET color bottle', 'PET-PS packaging', 'PP-PE bottle', 'PP-PS packaging', 'stretch bag']
