@@ -1,20 +1,7 @@
 # ♻️ AI-Powered Plastic Waste Detection from Aerial Images
 
-## 📝 Table of Contents
-- [Project Overview](#-project-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [Dataset Preparation](#-dataset-preparation)
-- [Model Training](#-model-training)
-- [Inference](#-inference)
-- [Results](#-results)
-- [Deployment](#-deployment)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## 🌍 Project Overview
-Computer vision system that detects and classifies plastic waste in drone/satellite imagery to assist environmental clean-up efforts.
+Computer vision system that detects and classifies plastic waste in drone/satellite imagery to assist local authorities or NGOs in targeting clean-up operations.
 
 ## ✨ Features
 - Real-time detection (15+ FPS)
